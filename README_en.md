@@ -1,6 +1,6 @@
 [简体中文](./README.md) | English
 
-# Generative Agents Chinesized
+# Generative Agents Chinesized zh
 
 ## 1. Configure the environment
 
